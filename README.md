@@ -77,3 +77,11 @@ Português: Nativo
 
 Inglês: Intermediário (leitura e escrita técnica)
 
+
+CERTIFICAÇÕES 
+
+
+Certificado em React.js - Udemy (2022)
+
+AWS Cloud Practitioner - Amazon Web Services (2023)
+
